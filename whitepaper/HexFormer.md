@@ -527,13 +527,13 @@ We believe that this method, which organically combines symbology, information t
 As research deepens and technology develops, we expect this architecture to produce substantial impacts across multiple domains, providing new directions and implementation paths for intelligent system design.
 
 refer 
-Shannon, C. E. (1948). A Mathematical Theory of Communication. Bell System Technical Journal.
-Wilhelm, R., & Baynes, C. F. (1967). The I Ching or Book of Changes.
-Liu, Y., et al. (2021). Swin Transformer: Hierarchical Vision Transformer using Shifted Windows. ICCV 2021.
-Hinton, G. E., et al. (2015). Distilling the Knowledge in a Neural Network. NIPS Workshop.
-Li, C., et al. (2020). I-Ching Divination Evolutionary Algorithm: A Unique Approach to Optimization. IEEE Transactions on Evolutionary Computation.
-Jacob, B., et al. (2018). Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference. CVPR 2018.
-Ni, Y., et al. (2022). Expanding Language-Image Pretrained Models for General Video Recognition. ECCV 2022.
-Zhang, W., et al. (2023). Symbolic Control for Neural Language Generation. ACL 2023.
-Chen, H., et al. (2021). Adaptive Computation with Elastic Transformers. ACL 2021.
-Dao, T., et al. (2022). FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness. NeurIPS 2022
+- Shannon, C. E. (1948). A Mathematical Theory of Communication. Bell System Technical Journal.
+- Wilhelm, R., & Baynes, C. F. (1967). The I Ching or Book of Changes.
+- Liu, Y., et al. (2021). Swin Transformer: Hierarchical Vision Transformer using Shifted Windows. ICCV 2021.
+- Hinton, G. E., et al. (2015). Distilling the Knowledge in a Neural Network. NIPS Workshop.
+- Li, C., et al. (2020). I-Ching Divination Evolutionary Algorithm: A Unique Approach to Optimization. IEEE Transactions on Evolutionary Computation.
+- Jacob, B., et al. (2018). Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference. CVPR 2018.
+- Ni, Y., et al. (2022). Expanding Language-Image Pretrained Models for General Video Recognition. ECCV 2022.
+- Zhang, W., et al. (2023). Symbolic Control for Neural Language Generation. ACL 2023.
+- Chen, H., et al. (2021). Adaptive Computation with Elastic Transformers. ACL 2021.
+- Dao, T., et al. (2022). FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness. NeurIPS 2022
