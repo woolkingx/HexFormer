@@ -1,4 +1,4 @@
-# 🧬 HexFormer: Dual Bit Symbol Architecture for Semantic Generation
+# 🧬 HexFormer: Dual-Foundation Architecture Model
 
 > A hybrid architecture for AI symbolic reasoning and semantic emergence,  
 > grounded in I-Ching's binary combinatorics and 8-bit operational logic.
