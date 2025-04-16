@@ -1,4 +1,4 @@
-# 🧬 HexFormer：Dual Bit Symbol 語義生成架構
+# 🧬 HexFormer：双位元底层架构的融合模型
 
 > 一套融合 I-Ching 卦象結構與 8-bit 運算邏輯的語義生成系統  
 > 重新思考 AI 語言理解與表現的底層結構。
