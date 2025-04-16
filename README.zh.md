@@ -33,9 +33,7 @@ HexFormer 是一種雙底層語義架構，結合：
 | `Transformer Encoder` | Swin/BERT變體，用於時序建模與抽象 |
 | `多模態解碼器`         | 輸出生成：文本 / 圖像 / 音訊 等     |
 
-📄 [點我閱讀完整白皮書](./whitepaper/HexFormer_CN.pdf)
-
----
+📄 [📘 閱讀 HexFormer 中文白皮書 v1.0](./whitepaper/HexFormer_CN.md)
 
 ## 📁 專案結構總覽
 
