@@ -1,4 +1,4 @@
-# 🌀 HexFormer Dual-Bit AI Model Architecture (Open Notes)
+# 🌀 HexFormer Dual-Foundation Architecture Model (Open Notes)
 
     2ⁿ Symbol Layer: Like the 64 Hexagrams of the I Ching, used to control the context rhythm and reasoning state
     8-bit Representation Layer: High computational efficiency and hardware-friendly semantic bit units
